@@ -4,3 +4,5 @@
 bike_data.csv filter=lfs diff=lfs merge=lfs -text
 datasets/2019_bikes.csv filter=lfs diff=lfs merge=lfs -text
 datasets/2018_bikes.csv filter=lfs diff=lfs merge=lfs -text
+[200~ filter=lfs diff=lfs merge=lfs -text
+datasets/citibike-tripdata_2023.csv filter=lfs diff=lfs merge=lfs -text
